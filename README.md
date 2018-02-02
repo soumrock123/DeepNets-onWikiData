@@ -24,3 +24,8 @@ We use GloVe vectors for the word embeddings.
 
 The file cnn_eacl17gen.py solves the problem of predicting any single attribute (for example SEX OR GENDER) from the Wiki sentence. CNN performs better than RNN in this problem because local features capture the attributes efficiently, and no long-term dependencies are required.
 
+## First Wiki sentence generation from attributes
+
+This is a sequence-to-sequence problem addressed in the EACL paper cited above.
+We will soon upload a simple implementation for this problem.
+

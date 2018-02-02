@@ -18,7 +18,7 @@ This project is divided into two parts:
 
 This project has basic implementations of CNN, RNN (vanilla and LSTM), and various combinations thereof.
 We use Keras with TensolFlow backend.
-We use GloVe vectors for the word embeddings. 
+We use GloVe vectors for the word embeddings, which can be downloaded from here: https://nlp.stanford.edu/projects/glove/
 
 ## Attribute prediction from first Wiki sentence
 

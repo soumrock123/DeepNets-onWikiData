@@ -1,5 +1,5 @@
 # DeepNets-onWikiData
-Basic deep learning implementations for toy problems using Wiki Data
+*********Basic deep learning implementations for toy problems using Wiki Data***********
 
 A beginners guide to deep learning algorithms contain concepts about embeddings, Convolution, RNN, activation functions, epochs, dense layer, and so on. In order to have a hands-on understanding it is important to implement these concepts on consederably simple data. For this project we use the data out of the following paper - "Learning to generate one-sentence biographies from Wikidata", EACL 2017 [https://aclanthology.info/pdf/E/E17/E17-1060.pdf].
 

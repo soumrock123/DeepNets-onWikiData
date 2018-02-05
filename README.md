@@ -1,7 +1,7 @@
 # DeepNets-onWikiData
 *********Basic deep learning implementations for toy problems using Wiki Data*********
 
-A beginners guide to deep learning algorithms contain concepts about embeddings, Convolution, RNN, activation functions, epochs, dense layer, and so on. In order to have a hands-on understanding it is important to implement these concepts on consederably simple data. For this project we use the data out of the following paper - "Learning to generate one-sentence biographies from Wikidata", EACL 2017 [https://aclanthology.info/pdf/E/E17/E17-1060.pdf].
+A beginners guide to deep learning algorithms containing concepts about Embeddings, Convolutional Neural Nets, RNN, Activation Functions, Epochs, Dense Layer, and so on. In order to have a hands-on understanding it is important to implement these concepts on considerably simple data. For this project we use the data out of the following paper - "Learning to generate one-sentence biographies from Wikidata", EACL 2017 [https://aclanthology.info/pdf/E/E17/E17-1060.pdf].
 
 The data contains structured information about Wiki biography pages - attribute-value pairs, and the first Wikipedia sentence about the subject. For example -
 
@@ -17,8 +17,8 @@ This project is divided into two parts:
 2. First Wiki sentence generation from attributes
 
 This project has basic implementations of CNN, RNN (vanilla and LSTM), and various combinations thereof.
-We use Keras with TensolFlow backend.
-We use GloVe vectors for the word embeddings, which can be downloaded from here: https://nlp.stanford.edu/projects/glove/
+We used Keras with TensorFlow backend.
+We used GloVe vectors for the word embeddings, which can be downloaded from here: https://nlp.stanford.edu/projects/glove/
 
 ## Attribute prediction from first Wiki sentence
 
